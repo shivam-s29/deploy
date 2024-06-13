@@ -3,8 +3,8 @@
 sudo yum install python3-pip -y
 
 # Clone the repository
-git clone https://github.com/shivam-s29/Agri.git
-cd Agri
+git clone https://github.com/shivam-s29/flight-perdiction.git
+cd flight-perdiction
 
 # Install the required Python packages
 sudo pip3 install -r requirements.txt
