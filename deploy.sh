@@ -1,6 +1,6 @@
 #!/bin/bash
 # Install python3-pip
-sudo apt-get install python3-pip -y
+sudo yum install python3-pip -y
 
 # Clone the repository
 git clone https://github.com/shivam-s29/Agri.git
