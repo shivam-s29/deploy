@@ -10,5 +10,5 @@ cd Agri
 sudo pip3 install -r requirements.txt
 
 # Run the app.py script in a detached screen session
-screen -dmS agrisession python3 app.py
+screen -m -d python3 app.py
 
